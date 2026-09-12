@@ -12,7 +12,8 @@ The objective was to validate key customer-facing functionalities, identify defe
 **Role**: QA Tester
 **Test Execution Period**: September 2025
 
-**🧪 Testing Performed**
+## Testing Performed
+
 Functional Testing
 Positive & Negative Testing
 Equivalence Partitioning
@@ -22,7 +23,8 @@ Compatibility Testing
 Responsive Testing
 Defect Reporting
 
-**📊 Test Results**
+## Test Results
+
 75 test cases executed
 65 passed
 10 failed
@@ -31,11 +33,12 @@ Defect Reporting
 
 The application was not recommended for production release until the critical and major defects were addressed.
 
-**📁 Project Documents**
-📋 **Test Plan** :	https://drive.google.com/file/d/1aMPl6bano_SaD2qJvXacLw5rdYnpC2pt/view
+## Project Documents
 
-🧪 **Test Cases & Execution Report**: https://docs.google.com/spreadsheets/d/18fWKFBao-P8fx5-HkYzp3swcxMtuIETu/edit
+**Test Plan** :	https://drive.google.com/file/d/1aMPl6bano_SaD2qJvXacLw5rdYnpC2pt/view
 
-🐞 **Defect Report**	: https://docs.google.com/spreadsheets/d/11tdnaSywJYLTK06c02q_XsjA_Txbh4pc/edit
+**Test Cases & Execution Report**: https://docs.google.com/spreadsheets/d/18fWKFBao-P8fx5-HkYzp3swcxMtuIETu/edit
 
-📊 **Test Summary Report** : https://drive.google.com/file/d/1GWmgEBCShpP1jsLRPuGTUIiQC46IwlAM/view
+**Defect Report**	: https://docs.google.com/spreadsheets/d/11tdnaSywJYLTK06c02q_XsjA_Txbh4pc/edit
+
+**Test Summary Report** : https://drive.google.com/file/d/1GWmgEBCShpP1jsLRPuGTUIiQC46IwlAM/view
