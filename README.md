@@ -9,7 +9,9 @@ The objective was to validate key customer-facing functionalities, identify defe
 **Application under test**: https://ginandjuice.shop/
 
 **Testing Type**: Manual Testing
+
 **Role**: QA Tester
+
 **Test Execution Period**: September 2025
 
 ## Testing Performed
@@ -25,11 +27,11 @@ Defect Reporting
 
 ## Test Results
 
-75 test cases executed
-65 passed
-10 failed
-10 defects identified
-1 Critical, 3 Major, 3 Medium, and 3 Minor defects
+**>** 75 test cases executed
+**>** 65 passed
+**>** 10 failed
+**>** 10 defects identified
+**>** 1 Critical, 3 Major, 3 Medium, and 3 Minor defects
 
 The application was not recommended for production release until the critical and major defects were addressed.
 
