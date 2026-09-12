@@ -27,11 +27,15 @@ Defect Reporting
 
 ## Test Results
 
-**>** 75 test cases executed
-**>** 65 passed
-**>** 10 failed
-**>** 10 defects identified
-**>** 1 Critical, 3 Major, 3 Medium, and 3 Minor defects
+ 75 test cases executed
+
+ 65 passed
+
+ 10 failed
+
+ 10 defects identified
+
+ 1 Critical, 3 Major, 3 Medium, and 3 Minor defects
 
 The application was not recommended for production release until the critical and major defects were addressed.
 
